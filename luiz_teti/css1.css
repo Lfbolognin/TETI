@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Playfair+Display:ital@1&display=swap');
+
+        .container {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(rgb(129, 156, 182), rgb(173, 164, 209));
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            width: 450px;
+            height: 400px;
+            border-radius: 20px;
+
+        }
+
+
+        .hello {
+            font-size: 25px;
+            font-weight: 200;
+            color: #457839;
+        }
